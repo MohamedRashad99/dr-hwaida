@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478173901889",
+    "project_id": "shaiblabn",
+    "storage_bucket": "shaiblabn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478173901889:android:0cc873369c5afd1efec2c0",
+        "android_client_info": {
+          "package_name": "com.shaybhleb.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478173901889-6nsrjct94mhu0kdh1nsfe67peniu1gaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaybhleb.app",
+            "certificate_hash": "4fc62dd9741997536023d117ceb678a6a6ac130a"
+          }
+        },
+        {
+          "client_id": "478173901889-cii9larbdi7m624npb9n9c255hpkojtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3fl9xhCYJ9abR8hmofRWK4pY9YCOIO5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478173901889-cii9larbdi7m624npb9n9c255hpkojtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
